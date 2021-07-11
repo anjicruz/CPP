@@ -19,7 +19,6 @@ SimpleCat::SimpleCat()
 {
     cout << "Constructor called. " << endl;
     itsAge = 1;
-}
 
 SimpleCat::~SimpleCat()
 {
